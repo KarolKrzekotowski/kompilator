@@ -11,3 +11,4 @@ kompilator zajął 19 miejsce, jedyna optymalizacja jaka jest to w generowaniu l
 # Pliki
 - lex.py - lexer rules
 - kompilator.py - kompilator
+- Specyfikacja - Treść zadania
